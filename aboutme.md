@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why is the collie eating noodles, anyway?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Me](/assets/img/DSC_0728.JPG){: .mx-auto.d-block :}
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name's Jonathan Poncelet, but I often go by Vesper or NoodleCollie online. If you've known me for a good while, you might also remember me as x6herbius, but I eventually fell out of love with that handle I'd made as an early teenager.
 
-What else do you need?
+![Vesper and Maple](/assets/img/fursonas.jpg){: .mx-auto.d-block :}
 
-### My story
+I've been a furry since 2010, with my two primary fursonas being an ermine called Vesper (sometimes affectionately referred to as "a noodle"), and a border collie called Maple. Combine these two together and you get my current online handle!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![Logo](/assets/img/noodlecollie_bi.png){: .mx-auto.d-block :}
+
+I do a lot of programming, gaming, music, and occasionally artwork or photography. If you want to know more, check out my [links page](https://noodlecollie.carrd.co).
