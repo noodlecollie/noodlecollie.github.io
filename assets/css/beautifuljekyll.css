@@ -484,7 +484,8 @@ footer .footer-custom-content {
   margin-bottom: 0.625rem;
 }
 .post-preview .post-meta,
-.post-heading .post-meta {
+.post-heading .post-meta,
+.post-heading .img-credit, {
   color: #808080;
   font-size: 1.125rem;
   font-style: italic;
@@ -493,6 +494,11 @@ footer .footer-custom-content {
 }
 .post-heading .post-meta {
   display: inline-block;
+}
+.post-heading .img-credit {
+  display: block;
+  margin-top: 0.625rem;
+  font-size: 1rem;
 }
 @media (max-width: 767px) {
   .post-heading .post-meta {

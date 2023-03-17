@@ -1,1 +1,4 @@
 _site/
+
+# Backups for files, eg. images edited by Krita
+*.*~
