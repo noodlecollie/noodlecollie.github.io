@@ -3,7 +3,7 @@ layout: post
 title: Compiling Programs for Pocket PC in 2020
 subtitle: Investigations I did at the beginning of the pandemic lockdown
 cover-img: /assets/img/posts/2020-05-29-compiling-programs-for-pocket-pc-in-2020/banner.jpg
-cover-img-credit: 'Banner photo by <a href="https://unsplash.com/@adigold1">Adi Goldstein</a> on <a href="https://unsplash.com/photos/EUsVwEOsblE">Unsplash</a>'
+cover-img-credit: 'Banner photo by <a href="https://unsplash.com/@maxchen2k">Max Chen</a> on <a href="https://unsplash.com/photos/lud4OaUCP4Q">Unsplash</a>'
 thumbnail-img: /assets/img/posts/2020-05-29-compiling-programs-for-pocket-pc-in-2020/pocket-pc.jpeg
 share-img: /assets/img/posts/2020-05-29-compiling-programs-for-pocket-pc-in-2020/banner.jpg
 tags: [development, pocket pc]
