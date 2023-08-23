@@ -32,6 +32,10 @@ Strangely, the most useful resource I found on this was [this YouTube video](htt
 16. Next, in the PlayOnLinux configuration window, go to the `Install Components` tab and install `Microsoft Core Fonts`, `wmpcodecs`, and `wmp10`. Note that some downloads don't seem to work - the video says it's OK, and just to continue regardless and allow whichever installers you download successfully to run. It might be worth seeing whether we can obtain other copies of the installers that are downloaded here - from the video, PlayOnLinux is looking for [http://itc.edu.stockholm.se/shareware/arkiv/PC/WMEncoder.exe](http://itc.edu.stockholm.se/shareware/arkiv/PC/WMEncoder.exe). PlayOnLinux itself looks for [https://web.archive.org/web/20121003223319/http://download.microsoft.com/download/8/1/f/81f9402f-efdd-439d-b2a4-089563199d47/WMEncoder.exe](https://web.archive.org/web/20121003223319/http://download.microsoft.com/download/8/1/f/81f9402f-efdd-439d-b2a4-089563199d47/WMEncoder.exe) when I try to install this component, and then says the files do not match.
 17. Finally, create a shortcut by going to the `General` tab in the PlayOnLinux configuration window, clicking `Make a new shortcut from this virtual drive`, and choosing `wmplayer.exe`.
 
+## WMP10 FLAC support
+
+TODO: Follow https://web.archive.org/web/20121014125642/http://www.hack7mc.com/2009/01/playing-flac-files-in-media-center.html and write up here.
+
 ## Attempts At Getting Windows Media Player 11 To Work
 
 The process for WMP11 starts off the same, but at step 12 the installer will get stuck as it is not able to verify that the install of Windows is genuine. If the `Validate` button in the installer greys out when clicked and never becomes active again, cancel and re-run the installer: at this point it will say that the copy of Windows is not genuine.
